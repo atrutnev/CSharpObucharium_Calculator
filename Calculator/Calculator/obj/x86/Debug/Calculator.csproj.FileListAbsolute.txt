@@ -1,0 +1,7 @@
+C:\Documents and Settings\Ксюша\Local Settings\Application Data\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Ксюша\Local Settings\Application Data\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Ксюша\Local Settings\Application Data\Temporary Projects\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ксюша\Local Settings\Application Data\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Documents and Settings\Ксюша\Local Settings\Application Data\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+E:\Программы\Sharp\git\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\Программы\Sharp\git\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
